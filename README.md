@@ -1,4 +1,8 @@
 # What have I been good at for the past 4 years (2020-2024)?
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-tumewu-b2542915b/">
+          <img src="https://img.shields.io/badge/Linkedin-connect_with_me-blue?logo=linkedin" alt="my linkedin"></a>
+</p>
 
 ### 1. These are my top 5 programming languages  
   
@@ -23,10 +27,7 @@ Liquibase: for evolving database development
 Ansible: for server-side configuration automatic management  
 and Jenkins  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-tumewu-b2542915b/">
-          <img src="https://img.shields.io/badge/Linkedin-connect_with_me-blue?logo=linkedin" alt="my linkedin"></a>
-</p>
+
 <!--
 **samueltumewu/samueltumewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
