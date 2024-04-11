@@ -1,5 +1,5 @@
 # What have I been good at for the past 4 years (2020-2024)?
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/samuel-tumewu-b2542915b/">
           <img src="https://img.shields.io/badge/Linkedin-connect_with_me-blue?logo=linkedin" alt="my linkedin"></a>
 </p>
