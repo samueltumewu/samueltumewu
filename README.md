@@ -16,9 +16,12 @@
 #### 3. 🔥AI Engineering Computer Vision using Tensorflow **Keras** + **React**
   - [Frontend-React-Repo](https://github.com/samueltumewu/KenalBatik-app)
   - [Backend-Python-Repo](https://github.com/samueltumewu/KenalBatik)
-#### 4. 🎯R&D **React** Best Practice Code Structure
-  - [Frontend-React-Repo](https://github.com/samueltumewu/appointment-form)
-  - [Live Site-Netlify✨](https://reactjs-appointment-planner.netlify.app)
+#### 4. 📂All About ReactJS Projects!
+| Source Code | Demo Site  |
+|---|----|
+| [ReactJS Simple Project ](https://github.com/samueltumewu/appointment-form) | [Appointment Form✨](https://reactjs-appointment-planner.netlify.app/) |
+| [ReactJS with simple Redux paradigm ](https://github.com/samueltumewu/redux-ecommerce) |  [eCommerce✨](https://redux-react-online-shop.netlify.app/) |
+| [ReactJS with REDUX Advance ](https://github.com/samueltumewu/flashcards-react18) |  [Flashcards✨](https://flashcards-reactjs18.netlify.app/) |
 #### 5. 🎯R&D DevOps Docker preloading database for a swift development
   - [Docker-Repo](https://github.com/samueltumewu/mysql-docker-loaded-data)
 #### 6. 🎯R&D Spring Boot Scheduler Orchestrator without third-party library
